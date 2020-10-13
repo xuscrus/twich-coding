@@ -17,7 +17,7 @@ I've created my own notifications, based on material design and emojis. I use co
 - [material ui - color tool](https://material.io/resources/color/#!/)
 - [sounds](https://notificationsounds.com/)
   - [level 1](https://notificationsounds.com/message-tones/glitch-in-the-matrix-600)
-  - [level 2](hhttps://notificationsounds.com/notification-sounds/maybe-one-day-584)
+  - [level 2](https://notificationsounds.com/notification-sounds/maybe-one-day-584)
   - [level 3](https://notificationsounds.com/wake-up-tones/sonar-259)
   - [sci-fi](https://notificationsounds.com/sound-effects/sci-fi-ish-376)
 
